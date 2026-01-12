@@ -1,0 +1,34 @@
+[
+  {
+    "regexp": "^(?:\\/(_next\\/data\\/[^/]{1,}))?\\/robots\\.txt(\\\\.json)?[\\/#\\?]?$",
+    "originalSource": "/robots.txt"
+  },
+  {
+    "regexp": "^(?:\\/(_next\\/data\\/[^/]{1,}))?\\/admin(?:\\/((?:[^\\/#\\?]+?)(?:\\/(?:[^\\/#\\?]+?))*))?(\\\\.json)?[\\/#\\?]?$",
+    "originalSource": "/admin/:path*"
+  },
+  {
+    "regexp": "^(?:\\/(_next\\/data\\/[^/]{1,}))?\\/api\\/update-content(\\\\.json)?[\\/#\\?]?$",
+    "originalSource": "/api/update-content"
+  },
+  {
+    "regexp": "^(?:\\/(_next\\/data\\/[^/]{1,}))?\\/api\\/generate-promo(\\\\.json)?[\\/#\\?]?$",
+    "originalSource": "/api/generate-promo"
+  },
+  {
+    "regexp": "^(?:\\/(_next\\/data\\/[^/]{1,}))?\\/api\\/upload-image(\\\\.json)?[\\/#\\?]?$",
+    "originalSource": "/api/upload-image"
+  },
+  {
+    "regexp": "^(?:\\/(_next\\/data\\/[^/]{1,}))?\\/api\\/analyze-image(\\\\.json)?[\\/#\\?]?$",
+    "originalSource": "/api/analyze-image"
+  },
+  {
+    "regexp": "^(?:\\/(_next\\/data\\/[^/]{1,}))?\\/api\\/news\\/delete(\\\\.json)?[\\/#\\?]?$",
+    "originalSource": "/api/news/delete"
+  },
+  {
+    "regexp": "^(?:\\/(_next\\/data\\/[^/]{1,}))?\\/api\\/news\\/update(\\\\.json)?[\\/#\\?]?$",
+    "originalSource": "/api/news/update"
+  }
+]

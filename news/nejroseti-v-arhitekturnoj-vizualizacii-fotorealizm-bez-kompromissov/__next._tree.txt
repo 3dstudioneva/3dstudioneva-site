@@ -1,0 +1,5 @@
+:HL["/_next/static/chunks/39ef97191255a408.css","style"]
+:HL["/_next/static/media/GeistMono_Regular-s.p.0c7a5faa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/Geist_Regular-s.p.ca31db75.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/img/nejroseti-v-arhitekturnoj-vizualizacii-fotorealizm-bez-kompromissov.jpg","image"]
+0:{"buildId":"7KKTYhbNOd72W02PtvuhP","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"news","paramType":null,"paramKey":"news","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"d","paramKey":"nejroseti-v-arhitekturnoj-vizualizacii-fotorealizm-bez-kompromissov","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

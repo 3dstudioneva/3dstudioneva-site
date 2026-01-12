@@ -1,0 +1,41 @@
+1:"$Sreact.fragment"
+2:I[19016,["/_next/static/chunks/5660a89d41e3dadd.js"],"default"]
+3:I[22016,["/_next/static/chunks/5660a89d41e3dadd.js"],""]
+8:I[28129,["/_next/static/chunks/5660a89d41e3dadd.js"],"default"]
+9:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["/img/uvw-map-3ds-max.jpg","image"]
+4:T15dc,<h1>Освой UVW Map: сложные текстуры в 3ds Max</h1>
+
+<p>Этот урок покажет, как использовать модификатор UVW Map в 3ds Max для создания сложных и реалистичных текстур. Вы научитесь управлять разверткой UV, применять различные типы проекций и получать профессиональные результаты, даже если до этого работали с текстурированием только на базовом уровне.  В результате вы сможете создавать качественные 3D модели с детализированными поверхностями.</p>
+
+<h2>Необходимые инструменты:</h2>
+
+<ul>
+<li>3ds Max (любая версия, начиная с 2014)</li>
+<li>Любая текстура высокого разрешения (например, можно скачать бесплатные текстуры с <a href="https://www.textures.com" target="_blank" rel="noopener noreferrer">Textures.com</a> или <a href="https://www.ambientcg.com/textures" target="_blank" rel="noopener noreferrer">AmbientCG</a>).</li>
+</ul>
+
+<h2>Пошаговая инструкция:</h2>
+
+<p><b>Этап 1: Подготовка модели.</b> Создайте или импортируйте 3D-модель, которую вы хотите текстурировать.  Убедитесь, что геометрия модели достаточно чистая и не содержит лишних полигонов.</p>
+
+<p><b>Этап 2: Добавление модификатора UVW Map.</b> В модификаторе стека, выберите вашу модель и нажмите кнопку "<b>Modifier List</b>", найдите модификатор <b>UVW Map</b> и добавьте его. </p>
+
+<p><b>Этап 3: Выбор типа проекции.</b> В параметрах <b>UVW Map</b>, в разделе <b>Type</b>, выберите тип проекции, наиболее подходящий для вашей модели.  Для простых объектов подойдет <b>Planar</b> (плоскостная), для сложных – <b>Cylindrical</b> (цилиндрическая) или <b>Spherical</b> (сферическая). Экспериментируйте с разными вариантами, чтобы найти оптимальный результат.  Важно правильно ориентировать плоскость проекции с помощью параметров <b>Length, Width</b> и <b>Gizmo</b>.</p>
+
+<p><b>Этап 4: Настройка параметров.</b>  На этом этапе происходит тонкая настройка развертки UV в 3ds Max. Параметры <b>U Tile</b> и <b>V Tile</b> позволяют контролировать количество повторов текстуры по осям U и V. Изменение параметров <b>U Offset</b> и <b>V Offset</b> смещает текстуру по этим осям.  Параметр <b>Length</b> определяет длину проекции по оси U, а <b>Width</b> – по оси V.  </p>
+
+<p><b>Этап 5: Разворачивание UV вручную (опционально).</b> Для более сложных моделей, может потребоваться ручная корректировка развертки UV. Для этого выберите вкладку **Modify**, далее **Edit UVs** и  в окне <b>Edit UVs</b> используйте инструменты для ручной корректировки точек развертки. </p>
+
+<p><b>Этап 6: Применение текстуры.</b> В окне <b>Material Editor</b>, создайте новый материал и назначьте ему вашу текстуру в слоте <b>Diffuse</b>.  Затем присвойте этот материал вашей модели.</p>
+
+<p><b>Этап 7: Проверка и корректировка.</b> Осмотрите модель в 3D окне. Если текстура не отображается корректно, вернитесь к этапу 3 или 4 и подкорректируйте параметры <b>UVW Map</b>.  Проверьте, правильно ли выбрана проекция и как она влияет на текстуру.</p>
+
+<h2>Заключение:</h2>
+
+<p>Модификатор UVW Map – мощный инструмент для создания сложных текстур в 3ds Max.  Правильная настройка параметров развертки UV в 3ds Max  позволяет добиться реалистичного и качественного результата.  Практикуйтесь с различными моделями и типами проекций, чтобы развить свои навыки текстурирования.  Изучите дополнительные техники, такие как создание собственных карт UV, для достижения еще более высоких результатов в 3D моделировании и визуализации. Помните, что качественная текстура – залог успеха любой 3D-работы.</p>0:{"buildId":"7KKTYhbNOd72W02PtvuhP","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white","children":[["$","$L2",null,{"content":{"logoText":"3D STUDIO NEVA","menuItems":[{"name":"О нас","id":"about-section"},{"name":"Услуги","id":"services-section"},{"name":"Портфолио","id":"portfolio-section"},{"name":"Отзывы","id":"testimonials-section"},{"name":"Контакты","id":"contact-section"}],"button":"Заказать проект"}}],["$","main",null,{"className":"py-12 md:py-20","children":["$","div",null,{"className":"container mx-auto px-4 md:px-6","children":["$","article",null,{"className":"max-w-4xl mx-auto","children":[["$","header",null,{"className":"mb-8","children":[["$","$L3",null,{"href":"/news","className":"text-purple-600 font-semibold hover:underline flex items-center mb-6","children":[["$","i",null,{"className":"ri-arrow-left-line mr-1"}],"Назад ко всем новостям"]}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold text-gray-900 leading-tight","children":"Освой UVW Map: сложные текстуры в 3ds Max"}],["$","p",null,{"className":"text-gray-500 mt-4","children":["Опубликовано: ","18.09.2025"]}]]}],["$","div",null,{"className":"prose lg:prose-xl max-w-none mb-12","children":[["$","img",null,{"src":"/img/uvw-map-3ds-max.jpg","alt":"Освой UVW Map: сложные текстуры в 3ds Max","className":"rounded-xl shadow-lg mb-8"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}]]}],""]}]}]}],"$L5"]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+5:["$","$L8",null,{"footerContent":{"brandName":"3D STUDIO NEVA","description":"Студия профессиональной 3D-визуализации и анимации. Создаем впечатляющие визуальные решения для архитектуры, дизайна и рекламы.","servicesTitle":"Услуги","services":["Визуализация экстерьера","Визуализация интерьера","Предметная визуализация","Анимация"],"contactsTitle":"Контакты","address":"Санкт-Петербург","copyright":"Copyright 2025 3D STUDIO NEVA. Все права защищены."},"contactContent":{"title":"Контакты","formTitle":"Написать нам","formUrl":"https://forms.yandex.ru/u/6884bede1f1eb500d4c90206?iframe=1","contactInfo":{"title":"Свяжитесь с нами","phone":{"label":"Телефон","value":"+7 (992) 162-92-29"},"email":{"label":"Email","value":"studio3dneva@yandex.ru"},"hours":{"label":"Время работы","value":"Пн-Вс: 10:00 - 22:00"}},"socials":{"title":"Мы в соцсетях","links":[{"name":"vk","url":"https://vk.com/3dstudioneva?from=groups"},{"name":"telegram","url":"https://t.me/studio3dneva"},{"name":"whatsapp","url":"https://api.whatsapp.com/send/?phone=79921629229&text&type=phone_number&app_absent=0"},{"name":"behance","url":"https://www.behance.net/3dstudioneva"}]}}}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/5660a89d41e3dadd.js","async":true}]
+7:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null
